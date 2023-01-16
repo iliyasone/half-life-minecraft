@@ -1,0 +1,13 @@
+{
+    "textures": {
+        "bottom": "blocks/dirt",
+        "top": "blocks/dirt_podzol_top",
+        "side": "blocks/dirt_podzol_side"
+    },
+    "variants": {
+        "snowy=false": [
+            { "model": "podzol" }
+        ],
+        "snowy=true":  { "model": "podzol_snowed" }
+    }
+}

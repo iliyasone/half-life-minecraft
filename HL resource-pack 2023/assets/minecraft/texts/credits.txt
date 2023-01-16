@@ -1,0 +1,79 @@
+[C]§f===============
+[C]§e├ÇîÜÇéÿøíìôì Minecraft
+[C]§f===============
+
+§7½âøÿÜ ìêèì:
+§f			Markus Persson
+
+§7├ÇîÜÇéÿøôÇ, ÖÜÿàÜÇûûìÜÿâÇùìè ì àÜÇºìôÇ:
+§f			Markus Persson
+§f			Jens Bergensten
+§f			Nathan Adams
+
+§7┬ÜÿàÜÇûûìØø:
+§f			Erik Broes
+
+§7┐ƒîÑôÇ ì îâƒôÿâÑè ÅººèôøÑ:
+§f			Daniel Rosenfeld
+
+§7¡ùƒøÜììàÜÿâÑè ÖÜÿìîâèêèùìÆ ìØôƒØØøâÇ:
+§f			Kristoffer Zetterstrand
+
+§7½âøÿÜ ìØøÿÜìì â ôÿù¿è ìàÜÑ:
+§f			Julian Gough
+
+§7¡èé-ÜÇîÜÇéÿøíìôì:
+§f			Tobias Mollstam
+§f			Daniel Frisk
+§f			Leonard Axelsson
+§f			Jens Bergensten
+§f			Markus Persson
+
+§7├èôòÇûÇ ì ºìÜûèùùÑè îùÇôì:
+§f			Markus Toivonen
+
+§7┐èùèêïèÜÑ:
+§f			Carl Manneh
+§f			Daniel Kaplan
+
+§7┴ÜàÇùìîÇøÿÜ ôÿùôƒÜØÿâ:
+§f			Lydia Winters
+
+§7¼ƒáàÇòøèÜØôìÄ ƒíèø:
+§f			Patrick Geuder
+
+§7┼Çô ïè ƒíÇØøâÿâÇòì ÖÜÿàÜÇûûìØøÑ:
+§f			Paul Spooner
+§f			Ryan 'Scaevolus' Hitchman
+§f			Elliot 'Hippoplatimus' Segal
+
+§7├ÇîÜÇéÿøíìôì Mo' Creatures (ôÿùì ì ÖÜÿí.):
+§f			John Olarte (DrZhark)
+§f			Kent Christian Jensen
+§f			Dan Roque
+
+§7┬Üì ØÿîêÇùìì ìØÖÿòªîÿâÇòìØª:
+§f			Java by Oracle
+§f			LWJGL by many talented people
+§f			"3d Sound System" by Paul Lamb
+§f			JOrbis by JCraft
+
+
+
+[C]§f===============
+[C]§e┬èÜèâÿê ùÇ ÜƒØØôìÄ ÆîÑô
+[C]§f===============
+
+§7┼èôØø ì óÜìºø:
+§f			¡Øèâÿòÿê 'Hy60koshk' ─Çâíèùôÿ
+
+§7┼èáùìíèØôÇÆ éÇîÇ:
+§f			sprighy
+§f			Minecraft-Cube.ru
+
+
+
+
+
+
+§f"╚èÜèî êâÇê¿Çøª òèø âÑ éƒêèøè éÿòèè ØÿïÇòèøª ÿ øÿû, íèàÿ ùè ØêèòÇòì, íèû ÿ øÿû, íøÿ âÑ ØêèòÇòì. ┬ÿÅøÿûƒ, ÿøéÜÿØªøè ØÿûùèùìÆ. ╞ÖòÑâÇÄøè ÖÜÿíª ÿø éèîÿÖÇØùÿÄ àÇâÇùì. ┬ÿÄûÇÄøè ÖÿÖƒøùÑÄ âèøèÜ Øâÿìûì ÖÇÜƒØÇûì. ╕ØØòèêƒÄøè. ┐èíøÇÄøè. ┴øôÜÑâÇÄøè." §7- └èìîâèØøùÑÄ

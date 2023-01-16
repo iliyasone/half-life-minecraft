@@ -1,0 +1,49 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 1
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        },
+        {
+            "Points": 2000,
+            "Faction": 3
+        },
+        {
+            "Points": 10000,
+            "Faction": 6
+        },
+        {
+            "Points": 1000,
+            "Faction": 8
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "uJIb9Ic",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "5226bfdf-0700-3e3e-806a-340845a955b9",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}

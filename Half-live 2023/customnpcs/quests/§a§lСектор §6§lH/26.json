@@ -1,0 +1,79 @@
+{
+    "CompleterNpc": "Ken",
+    "NextQuestId": 25,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "Найти динамит",
+    "Text": "Выбить информацию из Военного о том, как попасть на склад, попасть туда, и найти там динамит.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "/setblock 76 123 -831 minecraft:redstone_block",
+    "ModRev": 15,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1608414334591L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 2b,
+                "id": "minecraft:tnt",
+                "Count": 5b,
+                "tag": {
+                    "HideFlags": 0,
+                    "display": {
+                        "Lore": [
+                            "§7Можно поставить только на специальное место"
+                        ],
+                        "Name": "§cВзрывчатка"
+                    },
+                    "CanPlaceOn": [
+                        "minecraft:glowstone"
+                    ]
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:tnt",
+                "Count": 5b,
+                "tag": {
+                    "HideFlags": 0,
+                    "display": {
+                        "Lore": [
+                            "§7Можно поставить только на специальное место"
+                        ],
+                        "Name": "§cВзрывчатка"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "",
+    "NextQuestTitle": "Зачистка домов"
+}

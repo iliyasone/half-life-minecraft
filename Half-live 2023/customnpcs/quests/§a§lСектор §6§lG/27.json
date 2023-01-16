@@ -1,0 +1,76 @@
+{
+    "CompleterNpc": "Джастин Хоггарт",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "Найти карточку доступа",
+    "Text": "Найти тёмно-синюю карту доступа",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "/tellraw @a [\"\",{\"text\":\"HEW \",\"color\":\"gold\",\"bold\":true},{\"text\":\"Рация \",\"color\":\"yellow\",\"bold\":false},{\"text\":\"Отлично, Гордон! Гари ждёт тебя\",\"color\":\"none\"}]",
+    "ModRev": 15,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1608417225163L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "minecraft:sapling",
+                "Count": 1b,
+                "tag": {
+                    "display": {
+                        "Lore": [
+                            "§9Джастин Хоггарт",
+                            "§8Уровень охраны §92"
+                        ],
+                        "Name": "§rКарточка доступа"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:sapling",
+                "Count": 1b,
+                "tag": {
+                    "display": {
+                        "Lore": [
+                            "§9Джастин Хоггарт",
+                            "§8Уровень охраны §92"
+                        ],
+                        "Name": "§rКарточка доступа"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Отлично, Гордон! Гари ждёт тебя",
+    "NextQuestTitle": ""
+}

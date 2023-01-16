@@ -1,0 +1,100 @@
+﻿language.name=Русский
+language.region=Russian
+language.code=ru_RU
+
+container.dropper=Ящик
+container.furnace=Плита
+container.enchant=Книжная стойка
+container.crafting=§l§6HEW
+item.appleGold.name=Аптечка
+container.chest=Ящик
+container.chestDouble=Большой ящик
+container.enderchest=Меж Измеренческий ящик
+
+
+item.glassBottle.name=Использованный шприц
+item.bucket.name=Использованный шприц
+item.bucketWater.name=Water Bucket
+item.bucketLava.name=Lava Bucket
+item.arrow.name=§aПатрон для винтовки
+item.rabbitStew.name=Газировка
+item.bowl.name=Пустая бутылка
+item.mushroomStew.name=Бутылка воды
+
+tile.chest.name=Ящик
+tile.hayBlock.name=Специальный блок
+tile.bed.noSleep=§eУ меня есть дела важнее, чем сон.
+tile.lightgem.name=Красная мешень
+tile.oreIron.name=Ломающийся песок
+
+
+death.attack.magic=Фриман был взорван гранатой
+death.attack.generic=Фриман погиб
+death.attack.indirectMagic=Фриман был взорван своей же гранатой
+
+death.fell.accident.ladder=Фриман погиб, падая с лестницы
+death.fell.accident.vines=Фриман упал с лианы и разбился!
+death.fell.accident.water=Фриман задохнулся
+death.fell.accident.generic=Фриман упал и разбился
+death.fell.killer=Фриман был скинут
+death.fell.assist=%2$s скинул Фримана 
+death.fell.assist.item=%2$s скинул Фримана используя %3$s
+death.fell.finish=%2$s прикончил Фримана 
+death.fell.finish.item=%2$s прикончил Фримана %2$s используя %3$s
+
+death.attack.inFire=Фриман загорелся
+
+death.attack.onFire=Фриман сгорел заживо
+death.attack.onFire.player=%2$s сжёг Фримана дотла 
+death.attack.lava=Фриман решил покупаться в радиоактивной жидкости
+death.attack.lava.player=%2$s помог Фриману покупаться в радиоактивной жидкости 
+death.attack.inWall=Фриман задохнулся в стене
+death.attack.drown=Фриман утонул
+death.attack.drown.player=Фриман утонул
+death.attack.starve=Фриман погиб от голода (серьёзно?)
+death.attack.cactus=Фриман был заколот досмерти
+death.attack.cactus.player=Фриман  был заколот досмерти из-за %2$s
+
+death.attack.explosion=Фриман взорвался!
+death.attack.explosion.player=Фриман взорвался из-за %2$s
+death.attack.wither=Фриман погиб
+death.attack.anvil=Фриман был раздавлен наковальней
+death.attack.fallingBlock=Фриман was squashed by a falling block
+death.attack.mob=Фриман был избит %2$s
+death.attack.player=Фриман был избит %2$s
+death.attack.player.item=%2$s застрелил Фримана используя %3$s
+death.attack.arrow=Фриман был застрелен %2$s
+death.attack.arrow.item=Фриман был застрелен %2$s используя %3$s
+death.attack.fireball=Фриман сгорел заживо из-за %2$s
+death.attack.fireball.item=Фриман сгорел заживо из-за %2$s используя%3$s
+death.attack.thrown=%2$s застрелил Фримана
+death.attack.thrown.item=%2$s застрелил Фримана используя %3$s
+
+
+death.attack.thorns=Фриман был убит в попытке борьбы с %2$s
+death.attack.fall=Фриман упал и разбился
+death.attack.outOfWorld=Сердце прихватило
+
+potion.regeneration=
+potion.resistance=
+potion.fireResistance=§aРадиация-стойкость
+potion.harm=Смертельный урон
+potion.absorption=
+
+potion.potency.0=
+potion.potency.1=
+potion.potency.2=
+potion.potency.3=
+
+enchantment.arrowDamage=Урон от патронов +
+
+enchantment.level.1=1
+enchantment.level.2=2
+enchantment.level.3=3
+enchantment.level.4=4
+enchantment.level.5=5
+enchantment.level.6=6
+enchantment.level.7=7
+enchantment.level.8=8
+enchantment.level.9=9
+enchantment.level.10=10

@@ -1,0 +1,64 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Хорошо",
+                "DialogColor": 16753920,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 15,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 23,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "План",
+    "AvailabilityDialog": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": 117,
+    "OptionFaction2Points": 100,
+    "DialogText": "Да, у меня есть план, но не готов :) Заключается в следующем: мы не сможем даже собрав всех своих победить военных, их слишком много. Поэтому ты должен забраться в здание склада, недалеко от нашей базы. Там должена быть взрывчатка. Разведчик доложил, что единственный у кого был ключ от стальной двери убит, а ключ бесследно исчез.В строении 2 забарикадировались спавшиеся охранники. Надеюсь они нам смогут помочь туда пробраться. И ещё скажи всем что я и ты собираем отряд и нам нужен каждый. Ведь динамитом мы врятли сможем всех убить.Но есть проблема: все двери в доме заперты. Так что тебе нужно найти другой вход в дом. Думаю ты справишься.И да Гордон, помни: либо они нас, либо мы их.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1641619864014L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

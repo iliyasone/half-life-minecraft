@@ -1,0 +1,64 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 149,
+                "Title": "Я как раз искал Пола. Где он?",
+                "DialogColor": 16753920,
+                "OptionType": 1
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 15,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "3",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Здесь с.. случилась какая-то чертовщина.. С паматью проблема, но помню, ч.. что я профессор Крузо и научный сотрудник Чёрной Мезы.  В день твоего эксперимента случилось какое-то землятресение, потом мы потеряли связь с внешним миром. То тут то там из порталов начали появляться враждедные существа! Мы с колеегами пытались спрятаться. Когда профессор Пол пытался запустить портал, я успел увидеть только яркую выспышку и импульсы чужого мира.. Очнулся я тут, и не поверил своим глазам, Моя одежда превратилась в лахмотья, здания в этой части комплекса стали выглядить так, как будто прошла сотня лет. Одна лаборатория вообще пропала, осталась только насыпь из песка.. Думаю Пол вызвал временную аномалию.Но хуже всего, что слухи подтвердились.. Как только я вышел из леса, которого кстати не было раньше, увидел как военные расстреливают весь персонал лаборатории! Жаль их.. Пришлось прятаться. ",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1641618820248L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

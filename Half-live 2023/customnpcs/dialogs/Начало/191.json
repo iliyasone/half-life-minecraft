@@ -1,0 +1,54 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 15,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Трогг не ...1",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "/setblock -309 211 -671 minecraft:redstone_block",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "&a<Квей> Добро пожаловать на нашу карту Half-life ! &9<Руслан> На её создание нас вдохновила &9одноименная &9игра. &9Сюжет карты совпадает с &9произведением Valve &9только общим &9смыслом. Все &9уровни разные, и всё что &9вы увидите на карте за &9исключением одной декорации &9(в начале) было &9сделанно &9только нами двоими. На &9карту было &9потраченно около 320 &9часов.&a<Квей> Вы: главный герой событий - Городон Фриман. &aНаучный сотрудник черной Мезы. Вначале вы &aпройдете &aтренировку, а далее уже пойдете по &aсюжетной линии. &9<Руслан> Сейчас тебе дали книгу с правилами, а так &9же c &9другой информацией.&a<Квей> Прочти правила, а потом нажми на надпись, &aкоторая &aсейчас появится в чате.&9<Руслан> После нажатия установиться конфиг. Если &9следовать &9всем правилам и просьбам, то не &9случиться никаких &9технических проблем.И всё будет &9так как задуманно.&a<Квей> Сзади тебя есть кнопка, нажми на неё в &aсамом &aконце, &aкогда выполнишь все указания. &aПриятной игры &a:) ",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1484398871012L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}
