@@ -49,7 +49,7 @@
         "WalkingRange": 10,
         "ShotCount": 1,
         "pDur": 5,
-        "StartPosNew": [177,120,-749],
+        "StartPosNew": [2,126,-663],
         "AttackRange": 2,
         "NpcKillLines": {
             "Lines": [

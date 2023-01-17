@@ -75,16 +75,19 @@ death.attack.thorns=Фриман был убит в попытке борьбы 
 death.attack.fall=Фриман упал и разбился
 death.attack.outOfWorld=Сердце прихватило
 
-potion.regeneration=
+potion.regeneration=Повышенное востановление
 potion.resistance=
 potion.fireResistance=§aРадиация-стойкость
 potion.harm=Смертельный урон
 potion.absorption=
 
+potion.heal.postfix=§bЛечебный анаболик
+potion.regeneration.postfix=§bЛечебный анаболик
+
 potion.potency.0=
-potion.potency.1=
-potion.potency.2=
-potion.potency.3=
+potion.potency.1=+ 
+potion.potency.2=++ 
+potion.potency.3=+++ 
 
 enchantment.arrowDamage=Урон от патронов +
 
